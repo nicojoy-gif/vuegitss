@@ -22,7 +22,7 @@
     name: 'Home'
 </script>
 
-<style lang="scss" scoped>
+<style  scoped>
 .box{
     width: 100%;
     height: 90vh;

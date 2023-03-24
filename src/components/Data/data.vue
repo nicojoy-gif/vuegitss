@@ -53,7 +53,7 @@ const Username = computed({
 })
 </script>
 
-<style lang="scss" scoped>
+<style  scoped>
 .box{
     height: 100vh;
     background-color: black;
