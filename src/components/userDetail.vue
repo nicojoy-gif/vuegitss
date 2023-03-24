@@ -78,7 +78,7 @@ axios.get(url + '/repos/' + Username.value + '/' + id)
 
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 
 .bg{
