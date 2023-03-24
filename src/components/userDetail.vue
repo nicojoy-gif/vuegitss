@@ -3,7 +3,7 @@
         <h1 class='text-center pb-5'>GIT REPOSITORY USER'S DETAIL</h1>
         <div class="card" style="width: 20rem;">
         
-  <img src='./asset/github-logo (1).png' class="card-img-top" alt="...">
+  <img src='./asset/github-logo1.png' class="card-img-top" alt="...">
   <div class="card-body bg-dark">
     <p class="card-text fs-3 text-uppercase fw-bold m-0">
  {{ Userdetail.name }}
